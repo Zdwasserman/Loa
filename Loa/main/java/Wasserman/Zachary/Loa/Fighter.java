@@ -31,6 +31,9 @@ public class Fighter
     public int getSpeed() {
         return speed;
     }
+    public void setHealth(int health) {
+        this.health = health;
+    }
 
     private void doDamage() {}
     private void takeDamage(){}

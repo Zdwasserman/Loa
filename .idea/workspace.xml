@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38846016-d648-4b12-8252-5043b28c57ad" name="Default" comment="" />
+    <list default="true" id="38846016-d648-4b12-8252-5043b28c57ad" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Display.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/HeroFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Loa.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Wasserman/Zachary/Loa/Attack.class" afterPath="$PROJECT_DIR$/target/classes/Wasserman/Zachary/Loa/Attack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Wasserman/Zachary/Loa/Fighter.class" afterPath="$PROJECT_DIR$/target/classes/Wasserman/Zachary/Loa/Fighter.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Wasserman/Zachary/Loa/Monster.class" afterPath="$PROJECT_DIR$/target/classes/Wasserman/Zachary/Loa/Monster.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/Wasserman/Zachary/RPGAppTest/AttackTest.class" afterPath="$PROJECT_DIR$/target/test-classes/Wasserman/Zachary/RPGAppTest/AttackTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java" afterPath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Fighter.java" afterPath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Fighter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Monster.java" afterPath="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Monster.java" />
+    </list>
     <ignored path="RPGApp.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,6 +46,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Loa.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Loa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeroFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/HeroFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -46,17 +79,33 @@
       <file leaf-file-name="Attack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-              <folding />
+            <state relative-caret-position="780">
+              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+              <folding>
+                <element signature="e#1091#1092#0" expanded="true" />
+                <element signature="e#1156#1157#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AttackTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Fighter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Fighter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <element signature="e#681#682#0" expanded="true" />
+                <element signature="e#717#718#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AttackTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loa/test/java/Wasserman/Zachary/RPGAppTest/AttackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-57">
+            <state relative-caret-position="615">
               <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -68,11 +117,21 @@
       <file leaf-file-name="Monster.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Monster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="255">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Display.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Display.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
               <folding>
-                <element signature="e#194#195#0" expanded="true" />
-                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,6 +146,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -104,8 +166,12 @@
         <option value="$PROJECT_DIR$/src/main/java/Wasserman/Zachary/RPGApp/Fighter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Wasserman/Zachary/RPGApp/Attack.java" />
         <option value="$PROJECT_DIR$/src/test/java/Wasserman/Zachary/RPGAppTest/AttackTest.java" />
-        <option value="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java" />
         <option value="$PROJECT_DIR$/Loa/test/java/Wasserman/Zachary/RPGAppTest/AttackTest.java" />
+        <option value="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Monster.java" />
+        <option value="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Fighter.java" />
+        <option value="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java" />
+        <option value="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Loa.java" />
+        <option value="$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Display.java" />
       </list>
     </option>
   </component>
@@ -124,9 +190,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-357" />
-    <option name="y" value="-1057" />
+    <option name="y" value="-1080" />
     <option name="width" value="1920" />
-    <option name="height" value="1057" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -154,8 +220,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -246,6 +310,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -255,8 +321,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.AttackTest.dieRoll">
+  <component name="RunManager" selected="Application.Loa">
     <configuration default="false" name="AttackTest.damageModFailedRollTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -333,6 +400,26 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Loa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Wasserman.Zachary.Loa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Wasserman.Zachary.Loa.Loa" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Loa" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -749,21 +836,26 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.AttackTest.damageModFailedRollTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.AttackTest" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.AttackTest.dieRoll" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Loa" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.AttackTest.dieRoll" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AttackTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AttackTest.damageModFailedRollTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.Loa" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.AttackTest.dieRoll" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.AttackTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AttackTest.damageModFailedRollTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -773,17 +865,13 @@
       <option name="presentableId" value="Default" />
       <updated>1476550432710</updated>
       <workItem from="1476550434024" duration="5079000" />
-      <workItem from="1476555790666" duration="939000" />
+      <workItem from="1476555790666" duration="1423000" />
+      <workItem from="1476582747636" duration="149000" />
+      <workItem from="1476583959674" duration="2162000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AttackTest - 2016.10.15 at 13h 59m 39s.xml">
-      <configuration name="AttackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AttackTest - 2016.10.15 at 14h 00m 15s.xml">
-      <configuration name="AttackTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AttackTest - 2016.10.15 at 14h 01m 31s.xml">
       <configuration name="AttackTest" configurationId="JUnit" />
     </history-entry>
@@ -808,23 +896,29 @@
     <history-entry file="AttackTest_dieRoll - 2016.10.15 at 16h 10m 12s.xml">
       <configuration name="AttackTest.dieRoll" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AttackTest_dieRoll - 2016.10.15 at 21h 54m 51s.xml">
+      <configuration name="AttackTest.dieRoll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttackTest_dieRoll - 2016.10.16 at 13h 07m 26s.xml">
+      <configuration name="AttackTest.dieRoll" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6018000" />
+    <option name="totallyTimeSpent" value="8813000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-357" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="-357" y="-1080" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913843" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32720232" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34412956" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2729913" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -833,8 +927,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -873,6 +967,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Hero.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loa/test/java/Wasserman/Zachary/RPGAppTest/AttackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
@@ -883,7 +1038,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -901,14 +1059,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-          <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Fighter.java" />
+    <entry file="file://$PROJECT_DIR$/Loa/test/java/Wasserman/Zachary/RPGAppTest/AttackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -917,11 +1082,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Monster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+          <folding>
+            <element signature="e#1091#1092#0" expanded="true" />
+            <element signature="e#1156#1157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Fighter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <element signature="e#681#682#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -933,32 +1120,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Monster.java">
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Display.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="240">
+          <caret line="16" column="83" selection-start-line="16" selection-start-column="83" selection-end-line="16" selection-end-column="83" />
           <folding>
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Attack.java">
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/Loa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loa/test/java/Wasserman/Zachary/RPGAppTest/AttackTest.java">
+    <entry file="file://$PROJECT_DIR$/Loa/main/java/Wasserman/Zachary/Loa/HeroFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-57">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
