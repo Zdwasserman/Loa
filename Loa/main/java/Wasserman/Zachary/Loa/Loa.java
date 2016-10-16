@@ -5,10 +5,10 @@ package Wasserman.Zachary.Loa;
  */
 public class Loa {
     public static void main(String[] args) {
-        Fighter link = new Hero("Link", 20, 5, 10);
-        Fighter ganon = new Monster("Ganon", 20, 10, 10);
-        Attack attack = new Attack();
-        attack.fight(link, ganon);
+        Fighter link = new Hero("Link", 100, 10, 100);
+        Fighter ganon = new Monster("Ganon", 100, 10, 10);
+        Combat combat = new Combat();
+        combat.oraOra(link, ganon);
 
     }
 }

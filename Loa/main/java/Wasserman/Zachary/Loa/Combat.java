@@ -5,7 +5,7 @@ import java.util.Random;
 /**
  * Created by zacharywasserman on 10/15/16.
  */
-public class Attack {
+public class Combat {
     Random random = new Random();
     Display display = new Display();
 
@@ -30,7 +30,7 @@ public class Attack {
         }
         if (dieRoll == 20) {
             display.criticalHit();
-            return mod = (int) ((fighter.getStength() * 1.5) - fighter.getStength());
+            return mod = (int) ((fighter.getStength() * 2.5) - fighter.getStength());
         }
         return 9999;
     }
@@ -43,6 +43,11 @@ public class Attack {
     public void dealDamage(Fighter defender, int damage) {
         defender.setHealth(defender.getHealth() - damage);
     }
+    public int hitRate(Fighter fighter, Fighter defender)
+    {
+        int numOfHits = Math.round(fighter.getSpeed() / defender.getSpeed());
+        return numOfHits;
+    }
 
     public void fight(Fighter fighter, Fighter defender) {
         int dieroll = diceRoll();
@@ -50,6 +55,14 @@ public class Attack {
         int damage = calcDamage(fighter, dmgMod);
         dealDamage(defender, damage);
         display.dealDamage(fighter, damage);
+    }
+    public void oraOra(Fighter fighter, Fighter defender)
+    {
+        int numOfHits = hitRate(fighter, defender);
+        for(int i = 0; i < numOfHits; i++)
+        {
+            fight(fighter, defender);
+        }
         display.remainingHealth(defender);
     }
 
